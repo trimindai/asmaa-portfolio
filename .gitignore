@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build output
+.vercel/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+*.png
+!favicon.png
+*.jpeg
+test-print*.pdf
+
+# Editor
+.vscode/
+.idea/
