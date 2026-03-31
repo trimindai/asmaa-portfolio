@@ -17,3 +17,5 @@ test-print*.pdf
 # Editor
 .vscode/
 .idea/
+
+.vercel
